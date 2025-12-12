@@ -43,3 +43,5 @@ onresize = () => {
         iconeBarras.style.display = "none"
     }
 }
+
+
